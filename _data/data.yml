@@ -149,14 +149,14 @@ publications:
       - title: FreeScatter
         authors: Qianyi Huang ,Guochao,HuiXin Dong
         conference: IoT Junal, 2019
-projects:
-    title: 在研项目
-    intro: >
+# projects:
+#     title: 在研项目
+#     intro: >
       
-    assignments:
-      - title: 基于背向散射通信技术的铁路传感网通信系统设计
-        link: "#hook"
-        tagline: "主要负责人，"
+#     assignments:
+#       - title: 基于背向散射通信技术的铁路传感网通信系统设计
+#         link: "#hook"
+#         tagline: "主要负责人，"
 
 skills:
     title: Skills &amp; Proficiency
