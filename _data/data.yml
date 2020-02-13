@@ -96,7 +96,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: "华为杯" 全国研究生数学建模大赛
+      - title: 华为杯全国研究生数学建模大赛
         link: "#hook"
         tagline: "主要负责编程，参与了“华为杯”全国研究生数学建模大赛，参与赛题F-无人机路径规划问题的模型构造与程序设计，获得**全国三等奖**."
 
@@ -104,19 +104,19 @@ projects:
         link: "#"
         tagline: "作为队长参与比赛，设计实现基于WiFi信号室内定位的微型无人机，获得校级一等奖。"
 
-      - title: "神雾杯"全国大学生节能减排大赛
+      - title: 神雾杯全国大学生节能减排大赛
         link: "#"
         tagline: "作为队长参与了2017年神雾杯节能减排大赛，设计实现了一款新型低功耗低污染的PCB腐蚀机，该作品获得全国三等奖。"
 
-      - title: "挑战杯" 湖北省大学生课外科技作品大赛
+      - title: 挑战杯湖北省大学生课外科技作品大赛
         link: "#"
         tagline: "作为主要技术负责人参与挑战杯大赛，设计实现实物作品“高精度频率源与精密测量系统”，该作品获得湖北省“挑战杯”大赛一等奖。"
 
-      - title: "荣威新能源杯" 全国大学生节能减排大赛
+      - title: 荣威新能源杯全国大学生节能减排大赛
         link: "#"
         tagline: "作为硬件和机械设计队员参与该比赛，设计实现了节能节水蒸汽洗碗机实物作品，该作品获得全国三等奖。"
 
-        - title: "TI杯" 湖北省大学生电子设计大赛
+        - title: TI杯湖北省大学生电子设计大赛
         link: "#"
         tagline: "作为硬件设计实现队员参与TI杯电子设计大赛，设计实现“位同步时钟提取”实物系统，该作品获得湖北省电子设计大赛二等奖。"
 
