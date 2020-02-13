@@ -49,7 +49,7 @@ career-profile:
     title: 个人介绍
     summary: |
         本人的实践能力较强，善于沟通，具有良好的活动策划和组织协调能力。良好的心态和责任感，
-        吃苦耐劳，勇于面对挑战。良好的自主学习能力，习惯制定学习计划，勤于学习不断提高。
+        吃苦耐劳，勇于面对挑战。良好的自主学习能力，习惯制定学习计划，勤于学习不断提高。        
 education:
     - degree: 信息与通信工程硕士在读
       university: 华中科技大学
@@ -64,23 +64,23 @@ education:
           - Bullet point
           - Bullet point
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+# experiences:
+#     - role: 项目负责人
+#       time: 2019 - Present
+#       # company: Startup Hubs, San Francisco
+#       details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#         error sit voluptatem accusantium doloremque laudantium, totam rem
+#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point 
+#           - Bullet point
+#           - Bullet point 
 
     # - role: Senior Software Engineer
     #   time: 2014 - 2015
@@ -149,14 +149,14 @@ publications:
       - title: FreeScatter
         authors: Qianyi Huang ,Guochao,HuiXin Dong
         conference: IoT Junal, 2019
-
-      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      # - title: A syntax directed compiler for Algol 60
-      #   authors: Edgar T. Irons
-      #   conference: "Comm. ACM 4 (1961), 51–55"
+projects:
+    title: 在研项目
+    intro: >
+      
+    assignments:
+      - title: 基于背向散射通信技术的铁路传感网通信系统设计
+        link: "#hook"
+        tagline: "主要负责人，"
 
 skills:
     title: Skills &amp; Proficiency
