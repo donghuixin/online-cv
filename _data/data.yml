@@ -1,7 +1,7 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
+ 
  sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -44,12 +44,12 @@
       # - item: Cooking
       #   link:
 
- career-profile:
+career-profile:
     title: 个人介绍
     summary: |
         本人的实践能力较强，善于沟通，具有良好的活动策划和组织协调能力。良好的心态和责任感，
         吃苦耐劳，勇于面对挑战。良好的自主学习能力，习惯制定学习计划，勤于学习不断提高。        
- education:
+education:
     - degree: 信息与通信工程硕士在读
       university: 华中科技大学
       time: 2018 - 2021
@@ -94,7 +94,7 @@
     #       - Bullet point
     #       - Bullet point
 
- projects:
+projects:
     title: 竞赛经历
     intro: >
       本科及读研期间积极参加各类科技类项目及竞赛.
@@ -124,7 +124,7 @@
         link: "#"
         tagline: "作为硬件设计实现队员参与TI杯电子设计大赛，设计实现“位同步时钟提取”实物系统，该作品获得湖北省电子设计大赛二等奖。。"
 
- publications:
+publications:
     title: 论文
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -135,7 +135,7 @@
       - title: FreeScatter
         authors: Qianyi Huang ,Guochao,HuiXin Dong
         conference: IoT Junal, 2019
- projects:
+projects:
     title: 在研项目
     intro: >
       
@@ -144,7 +144,7 @@
         link: "#hook"
         tagline: "主要负责人，"
 
- skills:
+skills:
     title: Skills &amp; Proficiency
 
     toolset:
@@ -165,12 +165,12 @@
 
       # - name: Sketch & Photoshop
       #   level: 60%
- experiences: 在研项目
+experiences: 在研项目
     # - title: 基于背向散射通信技术的铁路传感网通信系统设计
     - role: 项目负责人
       time: 2019 - Present
       # company: Startup Hubs, San Francisco
       details: |
         无源背向散射通信系统辅助铁路传感网络信息获取。
- footer: >
+footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
