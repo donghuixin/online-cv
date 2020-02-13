@@ -51,6 +51,7 @@ career-profile:
         本人的实践能力较强，善于沟通，具有良好的活动策划和组织协调能力。良好的心态和责任感，
         吃苦耐劳，勇于面对挑战。良好的自主学习能力，习惯制定学习计划，勤于学习不断提高。
 education:
+    title: 教育背景
     - degree: 信息与通信工程硕士在读
       university: 华中科技大学
       time: 2018 - 2021
@@ -82,59 +83,61 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    # - role: Senior Software Engineer
+    #   time: 2014 - 2015
+    #   company: Google, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    #       - Bullet point
+    #       - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    # - role: UI Developer
+    #   time: 2012 - 2014
+    #   company: Amazon, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    #       - Bullet point
+    #       - Bullet point
 
 projects:
     title: 竞赛经历
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      本科及读研期间积极参加各类科技类项目及竞赛.
 
     assignments:
       - title: 华为杯全国研究生数学建模大赛
         link: "#hook"
-        tagline: "主要负责编程，参与了“华为杯”全国研究生数学建模大赛，参与赛题F-无人机路径规划问题的模型构造与程序设计，获得**全国三等奖**."
+        tagline: "主要负责编程，参与了“华为杯”全国研究生数学建模大赛，参与赛题F-无人机路径规划问题的模型构造与程序设计，获得全国三等奖."
 
-      - title: DevStudio
+      - title: 华中科技大学机器人创新设计大赛
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "作为队长参与比赛，设计实现基于WiFi信号室内定位的微型无人机，获得一等奖。"
 
-      - title: Tempo
+      - title: 神雾杯全国大学生节能减排大赛
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "作为队长参与了2017年神雾杯节能减排大赛，设计实现了一款新型低功耗低污染的PCB腐蚀机，该作品获得全国三等奖。"
 
-      - title: Atom
+      - title: 挑战杯湖北省大学生课外科技作品大赛
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "作为主要技术负责人参与挑战杯大赛，设计实现实物作品“高精度频率源与精密测量系统”，该作品获得湖北省“挑战杯”大赛一等奖。"
 
-      - title: Delta
+      - title: 荣威新能源杯全国大学生节能减排大赛
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "作为硬件和机械设计队员参与该比赛，设计实现了节能节水蒸汽洗碗机实物作品，该作品获得全国三等奖。"
+
+      - title: TI杯湖北省大学生电子设计大赛
+        link: "#"
+        tagline: "作为硬件设计实现队员参与TI杯电子设计大赛，设计实现“位同步时钟提取”实物系统，该作品获得湖北省电子设计大赛二等奖。。"
 
 publications:
     title: Publications
@@ -144,39 +147,39 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: FreeScatter
+        authors: Qianyi Huang ,Guochao,HuiXin Dong
+        conference: IoT Junal, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      # - title: A syntax directed compiler for Algol 60
+      #   authors: Edgar T. Irons
+      #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C & C++
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: 硬件设计 & 射频仿真
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      # - name: Angular
+      #   level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      # - name: HTML5 & CSS
+      #   level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      # - name: Ruby on Rails
+      #   level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      # - name: Sketch & Photoshop
+      #   level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
