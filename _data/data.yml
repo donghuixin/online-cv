@@ -167,7 +167,7 @@ skills:
       # - name: Sketch & Photoshop
       #   level: 60%
 experiences: 在研项目
-    - title: 基于背向散射通信技术的铁路传感网通信系统设计
+    # - title: 基于背向散射通信技术的铁路传感网通信系统设计
     - role: 项目负责人
       time: 2019 - Present
       # company: Startup Hubs, San Francisco
