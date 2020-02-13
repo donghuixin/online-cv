@@ -7,79 +7,62 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 董慧鑫
+    tagline: 硕士在读
+    avatar: profile.jpg  #place  100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    # Sidebar links
+    email: huixin@hust.edu.cn
+    phone: 15172402528
     website: poetryscience.ink #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    # linkedin: alandoe
+    github: donghuixin
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+    # languages:
+    #  - idiom: English
+    #    level: Native
 
-      - idiom: French
-        level: Professional
+      # - idiom: French
+      #  level: Professional
 
-      - idiom: Spanish
-        level: Professional
-        
+     # - idiom: Spanish
+     #   level: Professional
+
     interests:
-      - item: Climbing
+      - item: 编程
         link:
 
-      - item: Snowboarding
+      - item: 无人机
         link:
 
-      - item: Cooking
-        link:
+      # - item: Cooking
+      #   link:
 
 career-profile:
-    title: Career Profile
+    title: 个人介绍
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+        本人的实践能力较强，善于沟通，具有良好的活动策划和组织协调能力。良好的心态和责任感，
+        吃苦耐劳，勇于面对挑战。良好的自主学习能力，习惯制定学习计划，勤于学习不断提高。
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 信息与通信工程硕士在读
+      university: 华中科技大学
+      time: 2018 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        研究方向是物联网与机器人，主要通过物理层的无线信号来感知环境，提供给无人机和机器人用于导航定位。
+    - degree: 通信工程学士学位
+      university: 武汉理工大学
+      time: 2014-2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
+        主修课程有通信原理、计算机网络、C++/Java程序开发、模数电和高频电子电路。推免综测排名 9/243。
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: Lead Developer
@@ -126,16 +109,16 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
+    title: 竞赛经历
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: 华为杯全国研究生数学建模大赛
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "主要负责编程，参与了“华为杯”全国研究生数学建模大赛，参与赛题F-无人机路径规划问题的模型构造与程序设计，获得**全国三等奖**."
 
       - title: DevStudio
         link: "#"
