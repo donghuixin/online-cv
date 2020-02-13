@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
     career-profile: True
     # Profile information
@@ -126,7 +126,7 @@ projects:
         tagline: "作为硬件设计实现队员参与TI杯电子设计大赛，设计实现“位同步时钟提取”实物系统，该作品获得湖北省电子设计大赛二等奖。。"
 
 publications:
-    title: fa==发表论文
+    title: 论文
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
